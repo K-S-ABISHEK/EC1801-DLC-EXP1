@@ -90,7 +90,8 @@ endmodule
     
 ## Truth Table
  
-<img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
+<img width="622" height="675" alt="WhatsApp Image 2026-10-24 at 2 28 46 PM" src="https://github.com/user-attachments/assets/7425d2cb-5d95-4ee0-b157-9c6859fb3ae8" />
+
 
 ## Simulation Procedure
 STEP 1 – Open Terminal
